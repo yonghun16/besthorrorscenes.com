@@ -5,7 +5,7 @@
 	
 <ul>
 	<li>
-		<a href="https://besthorrorscenes.com/"> 원본 보러가기 </a>
+		<a href="https://besthorrorscenes.com/"> 원본 보러가기 </a>( besthorrorscenes.com )
 	</li>
 	<li>
 		<a href="https://yonghun16.github.io/besthorrorscenes.com/"> Clone 보러가기 </a>
