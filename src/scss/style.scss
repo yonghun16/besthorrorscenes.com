@@ -88,6 +88,8 @@ main {
       align-items: flex-end;
       .movie__header {
         display: flex;
+        width: 100%;
+        justify-content: space-between;
         margin-bottom: 25px;
         h4 {
           font-size: 3rem;
