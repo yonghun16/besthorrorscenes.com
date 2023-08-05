@@ -1,2 +1,33 @@
-# besthorrorscenes.com
-besthorrorscenes.com 클론코딩
+![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=besthorrorscenes.com%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/yonghun16/besthorrorscenes.com/blob/main/besthorrorscenes.com_front_page.png?raw=true" width=800px />
+	
+<ul>
+	<li>
+		<a href="https://besthorrorscenes.com/"> 원본 보러가기 </a>
+	</li>
+	<li>
+		<a href="https://besthorrorscenes.com/"> Clone 보러가기 </a>
+	</li>
+	<li>
+		반응형(X), 백엔드(X)
+	</li>
+</ul>
+</br>
+<h4>Powerd by</h4>
+<div>
+	<a href="https://pugjs.org/">
+		<img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
+	<a href="https://sass-lang.com/">
+		<img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
+	<br>
+	<a href="https://github.com/">
+ 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+ 	<br>
+	<a href="https://neovim.io/">
+		<img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
+	<a href="https://code.visualstudio.com/">
+		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
+
+</div>
