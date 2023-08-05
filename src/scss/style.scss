@@ -73,7 +73,7 @@ header {
 main {
   margin-left: $fixedWidth;
   .movie {
-    background: linear-gradient($red 85%, #D54138);
+    background: linear-gradient($red 80%, #D54138);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -81,7 +81,7 @@ main {
     color: $white;
     .wrapper {
       padding-top: 80px;
-      width: 85%;
+      width: $contentWidth;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -105,16 +105,28 @@ main {
       }
     }
     img {
-      width: 85%;
-      padding-bottom: 50px;
+      width: $contentWidth;
+      margin-bottom: 50px;
+      box-shadow: 0 80px 80px -80px #2d0806;
     }
     .comments {
-      width: 85%;
+      width: $contentWidth;
       letter-spacing: 1px;
       font-size : 0.9em;
       line-height: 1.7;
       p {
         text-indent: 2em;
+      }
+    }
+    .ps {
+      margin-top: 15px;
+      margin-bottom: 100px;
+      display: flex;
+      justify-content: space-between;
+      .ps__ranking {
+        color: #841D16;
+        font-size: 1rem;
+        font-weight: 400;
       }
     }
   }
