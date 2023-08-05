@@ -12,12 +12,54 @@ body {
 
 header {
   background-color: #f0eff0;
-  width: 33%;
+  width: 43%;
   height: 100%;
-  padding: 75px;
+  padding: 10vh 0 72px 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: $red;
   h1 {
-    color: $red;
     font-size: 75px;
+    width: 50%;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+  }
+  h3 {
+    font-size: 28px;
+    font-weight: 300;
+    margin-bottom: 20px;
+  }
+  h3,
+  p {
+    width: 70%;
+    line-height: 1.2;
+    text-align: justify;
+  }
+  p {
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  nav {
+    width: 80%;
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      li {
+        margin-right: 20px;
+        font-size: 13px;
+        color: black;
+        opacity: 0.6;
+        padding-bottom: 5px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.6);
+        margin-bottom: 5px;
+        &:hover {
+          opacity: 1;
+          cursor: pointer;
+        }
+      }
+    }
   }
 }
 
