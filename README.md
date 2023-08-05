@@ -8,7 +8,7 @@
 		<a href="https://besthorrorscenes.com/"> 원본 보러가기 </a>
 	</li>
 	<li>
-		<a href="https://besthorrorscenes.com/"> Clone 보러가기 </a>
+		<a href="https://yonghun16.github.io/besthorrorscenes.com/"> Clone 보러가기 </a>
 	</li>
 	<li>
 		반응형(X), 백엔드(X)
