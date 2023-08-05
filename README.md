@@ -17,17 +17,12 @@
 </br>
 <h4>Powerd by</h4>
 <div>
-	<a href="https://pugjs.org/">
-		<img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
-	<a href="https://sass-lang.com/">
-		<img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
+	<!-- PUG --><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
+	<!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
 	<br>
-	<a href="https://github.com/">
- 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+	<!-- github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
  	<br>
-	<a href="https://neovim.io/">
-		<img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
-	<a href="https://code.visualstudio.com/">
-		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
+	<!-- neovim --><a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
+	<!-- VScode --><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
 
 </div>
