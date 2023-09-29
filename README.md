@@ -11,7 +11,7 @@
 		<a href="https://yonghun16.github.io/besthorrorscenes.com/"> Clone 보러가기 </a>
 	</li>
 	<li>
-		반응형(X), 백엔드(X)
+		Single-page
 	</li>
 </ul>
 </br>
